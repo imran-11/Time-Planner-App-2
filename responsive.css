@@ -1,0 +1,127 @@
+@media(max-width:1200px){
+    .form-control {
+        margin-bottom: 15px;
+     
+    }
+    .second-work-text h1 {
+        font-size: 36px;
+    }
+    .second-work-text p {
+        font-size: 20px;
+    }
+}
+@media(max-width:1040px){
+    .slider {
+        padding: 150px 0;
+    }
+    .slider-caption p {
+        margin-bottom: 4px;
+        font-size: 15px;
+    }
+    .slider-caption h1 {
+        margin-bottom: 30px;
+        font-size: 45px;
+    }
+    .slider .form-control {
+        padding: 8px 5px;
+        text-align: center;
+        margin: auto;
+        margin-bottom: 10px;
+    }
+    .form-control {
+        width: 50%;}
+    .btn-block {
+        width: 50%;
+    }
+    .slider .btn {
+        padding: 3px 5px;
+        margin: auto;
+    }
+    .font-weight-bold {
+        font-weight: 401!important;
+    }
+}
+@media(max-width:992px){
+    .col-lg-4 img {
+        max-width: 50%;
+        margin: auto;
+        display: block;
+    }
+    .item-text h2 {
+        font-size: 40px;
+        margin-bottom: 10px;
+    }
+    .col-lg-3 {
+        width: 25%;
+    }
+    .second-work-text h1 {
+        font-size: 35px;
+        margin-top: 50px;
+    }
+    .second-work-text p {
+        font-size: 18px;
+        line-height: 1.6rem;
+        margin-top: 30px;
+    }
+}
+
+
+@media(max-width:772px){
+    .item-text h2 {
+        font-size: 35px;}
+        .second-work-text h1 {
+            font-size: 30px;
+            margin-top: 38px;
+        }
+}
+@media(max-width:765px){
+    .second-work-text h1 {
+        font-size: 24px;
+        margin-top: -80px;
+    }
+    .second-work-text p {
+        font-size: 16px;
+        margin-top: 18px;
+        text-align: justify;
+    }
+
+}
+@media(max-width:485px){
+    .second-work-text h1 {
+        font-size: 21px;
+        margin-top: -80px;
+    }
+    .second-work-text p {
+        font-size: 15px;
+        margin-top: 18px;
+    }
+
+@media(max-width:450px){
+    .slider {
+        padding: 80px 0;
+    }
+    .slider-caption p {
+        margin-bottom: 0px;
+        font-size: 11px;
+}
+.slider-caption h1 {
+    margin-bottom: 8px;
+    font-size: 25px;}
+    .col-lg-3 {
+        width: 50%;
+        margin-bottom: -50px
+    }
+    .item-text h2 {
+        font-size: 20px;
+    }
+    .item-text p {
+        font-size: 15px;
+    }
+    .second-work-text p {
+        font-size: 13px;
+    }
+    .second-work-text h1 {
+        font-size: 16px;
+        margin-top: -90px;
+        font-weight: bold;
+    }
